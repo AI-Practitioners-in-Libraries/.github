@@ -1,5 +1,5 @@
 # About
-We are a cross-institutional community of practice for AI practitioners working in academic libraries, founded in May 2026 among the first dedicated AI-focused professionals in this space. Everything we build is open source and openly licensed, so it can be used, adapted, and carried forward by anyone in the field.
+We are a cross-institutional community of practice for AI practitioners working in academic libraries, founded among the first dedicated AI-focused professionals in this space in May 2026. Everything we build is open source and openly licensed, so it can be used, adapted, and carried forward by anyone in the field.
 
 **Mission Statement**: We collaborate across institutions to create projects and shared resources, reducing redundant and siloed effort across campuses, and believe that doing so opens the door to greater impact, wider visibility, and better results. 
 
