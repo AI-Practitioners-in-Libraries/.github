@@ -8,10 +8,10 @@ We are a cross-institutional community of practice for AI practitioners working 
 
 ## Founders 
 
-- [Will Huggins](https://www.linkedin.com/in/will-huggins/); Associate Director, Library Technology & Innovation at Stanford Law, February 2026-present  
-- [Sharesly Rodriguez](https://www.linkedin.com/in/sharesly/); AI Librarian at San Jose State University, January 2025-present 
+- [Will Huggins](https://www.linkedin.com/in/will-huggins/; Associate Director, Library Technology & Innovation at Stanford Law (February 2026-present)  
+- [Sharesly Rodriguez](https://www.linkedin.com/in/sharesly/); AI Librarian at San Jose State University (January 2025-present) 
     - First dedicated AI Librarian position in the US and at SJSU 
-- [Lois Wong](https://www.linkedin.com/in/lois-wong/); AI Librarian at the University of Chicago, September 2025-present 
+- [Lois Wong](https://www.linkedin.com/in/lois-wong/); AI Librarian at the University of Chicago (September 2025-present) 
     - First AI librarian at UChicago 
     
 
